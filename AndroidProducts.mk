@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_huawei_tablet.mk
+    $(LOCAL_DIR)/aosp_huawei_tablet.mk

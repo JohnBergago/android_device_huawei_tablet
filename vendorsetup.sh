@@ -1,2 +1,6 @@
 add_lunch_combo carbon_huawei_tablet-userdebug
 add_lunch_combo carbon_huawei_tablet-user
+
+add_lunch_combo aosp_huawei_tablet-userdebug
+add_lunch_combo aosp_huawei_tablet-user
+add_lunch_combo aosp_huawei_tablet-eng
